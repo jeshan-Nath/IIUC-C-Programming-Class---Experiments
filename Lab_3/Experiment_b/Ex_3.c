@@ -14,14 +14,14 @@ int main(){
     {
         if (number%i==0)
         {
-            printf("it is a prime number");
+            printf("it is a not prime number");
             return 0;
         }
         
     }
     
  
-        printf("it is not a prime number");
+        printf("it is a prime number");
     
     return 0;
 }
